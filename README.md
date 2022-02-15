@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<div style="margin: -100px; font-size: 6em;">WHAT'S UP GANG@@@@@</div>
 
 <!--
 **rafaelcolladojr/rafaelcolladojr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
