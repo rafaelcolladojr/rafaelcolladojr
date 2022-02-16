@@ -11,16 +11,16 @@
 
 </br>
 
-I'm a **Software Engineer** based in **New York City**.
+###I'm a **Software Engineer** based in **New York City**.
 
 
-I spend most of my time in **Flutter**.
+###I spend most of my time in **Flutter**.
 
 
-I make **video games** when bored.
+###I make **video games** when bored.
 
 
-My favorite animal is the **duck**.
+###My favorite animal is the **duck**.
 
 </br>
 </br>
