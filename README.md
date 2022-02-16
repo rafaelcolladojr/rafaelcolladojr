@@ -12,7 +12,7 @@
 I'm a **Software Engineer** based in **New York City**.
 
 
-I prefer to develop in **Flutter**.
+I spend most of my time in **Flutter**.
 
 
 I make **video games** when bored.
