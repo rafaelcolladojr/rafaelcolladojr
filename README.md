@@ -5,6 +5,9 @@
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=rafaelcolladojr.rafaelcolladojr&color=00cf00)
 
+</br>
+
+</br>
 
 I'm a **Software Engineer** based in **New York City**.
 
