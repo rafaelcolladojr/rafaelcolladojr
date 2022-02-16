@@ -5,7 +5,7 @@
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=rafaelcolladojr.rafaelcolladojr&color=00cf00)
 
-<div align="center">
+<div align="right">
 
 </br>
 
@@ -27,7 +27,8 @@ My favorite animal is the **duck**.
 </br>
 </br>
 
+</div>
+
 <div align="center">
 <img src="https://user-images.githubusercontent.com/7101404/154202000-86d49901-a42e-4025-b5ce-75c2b5da3e7c.png"></img>
-</div>
 </div>
