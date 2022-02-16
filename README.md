@@ -1,8 +1,9 @@
-### Hi
+### Hey
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=rafaelcolladojr.rafaelcolladojr&color=00cf00)
 
-<!--
+<img align="right" src="https://user-images.githubusercontent.com/7101404/154201752-32ed6d76-e24f-4404-ad08-fe2950048076.png"></img>
+
 **rafaelcolladojr/rafaelcolladojr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
