@@ -1,5 +1,6 @@
 ### Hi
 
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=rafaelcolladojr.rafaelcolladojr&color=00cf00)
 
 <!--
 **rafaelcolladojr/rafaelcolladojr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
