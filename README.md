@@ -1,7 +1,7 @@
 <div id="body" style="width: 70%; border: 1px solid grey" border-radius: 2px; >
 <img align="right" src="https://user-images.githubusercontent.com/7101404/154205263-b4d23e06-5232-405c-8d7e-123fc0181b92.png"></img>
 
-### Hey, name's Rafael. :)
+## Hey, name's Rafael. :)
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=rafaelcolladojr.rafaelcolladojr&color=00cf00)
 
