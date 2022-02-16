@@ -11,13 +11,13 @@
 
 </br>
 
-I'm a **Software Engineer** based in **New York City**.
+I'm a [**Software Engineer**](https://twitter.com/rafaelcolladojr) based in **New York City**.
 
 
-I spend most of my time in **Flutter**.
+If I'm not developing in [**Flutter**](https://flutter.dev), I'm probably making a [**bad game**](https://apps.apple.com/us/app/above/id1535097129).
 
 
-I make **video games** when bored.
+In love with all things **open source**.
 
 
 My favorite animal is the **duck**.
