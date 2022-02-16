@@ -30,5 +30,5 @@ My favorite animal is the **duck**.
 </div>
 
 <div align="center">
-<img width="16px" src="https://user-images.githubusercontent.com/7101404/154202000-86d49901-a42e-4025-b5ce-75c2b5da3e7c.png"></img>
+<img width="21px" src="https://user-images.githubusercontent.com/7101404/154202000-86d49901-a42e-4025-b5ce-75c2b5da3e7c.png"></img>
 </div>
