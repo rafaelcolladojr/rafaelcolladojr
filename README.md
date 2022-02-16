@@ -4,9 +4,9 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/7101404/154202000-86d49901-a42e-4025-b5ce-75c2b5da3e7c.png"></img>
 
-
-**rafaelcolladojr/rafaelcolladojr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--
+**rafaelcolladojr/rafaelcolladojr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
