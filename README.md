@@ -3,8 +3,6 @@
 
 ## Hey, name's Rafael. :)
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=rafaelcolladojr.rafaelcolladojr)
-
 <div align="right">
 
 </br>
