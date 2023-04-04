@@ -1,10 +1,9 @@
 
-## Hey, name's Rafael. :)
+## Hey, name's Rafael.
 
 <div align="right">
 
 </br>
-
 </br>
 
 I'm a [**Software Engineer**](https://twitter.com/rafaelcolladojr) based in **New York City**.
