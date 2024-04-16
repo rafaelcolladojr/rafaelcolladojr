@@ -13,10 +13,6 @@ If I'm not developing in [**Flutter**](https://flutter.dev), I'm probably making
 
 
 In love with all things **open source**, and **Neovim**.
-
-
-My favorite animal is the **duck**.
-
 </br>
 </br>
 </br>
