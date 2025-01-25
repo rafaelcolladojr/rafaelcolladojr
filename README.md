@@ -9,10 +9,10 @@
 I'm a Software Engineer based in **New York City**.
 
 
-If I'm not developing in [**Flutter**](https://flutter.dev), I'm probably making a [**bad game**](https://apps.apple.com/us/app/above/id1535097129).
+If I'm not making a mobile app, I'm probably making a [**bad game**](https://apps.apple.com/us/app/above/id1535097129).
 
 
-In love with all things **open source**, and **Neovim**.
+In love with all things **open source**, [**Flutter**](https://flutter.dev), and [**Neovim**](https://neovim.io/).
 </br>
 </br>
 </br>
