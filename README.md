@@ -6,7 +6,7 @@
 </br>
 </br>
 
-I'm a Software Engineer based in **New York City**.
+I'm a Software Engineer at [**Last Interactive**](https://lastinteractive.com) based in **New York City**.
 
 
 If I'm not making a mobile app, I'm probably making a [**bad game**](https://apps.apple.com/us/app/above/id1535097129).
